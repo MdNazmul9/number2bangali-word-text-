@@ -1,2 +1,2 @@
-# number2bangali-word-text
+# number2bangali_word_text
 
