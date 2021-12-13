@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A package that allows number input and convert the number as
 
 # Setting up
 setup(
-    name="number2bangali_word_text",
+    name="numberbanglaword",
     version=VERSION,
     author="Md. Nazmul Hossain",
     author_email="nazmul.cse48@gmail.com",
@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
     packages=find_packages(),
     install_requires=[],
-    keywords=['python','number2bangali-word-text','number2word-text','number-to-bangali-word-text','number-to-word-text','number-to-bangla-text' ],
+    keywords=['python','numberbanglaword','number2bangali-word-text','number2word-text','number-to-bangali-word-text','number-to-word-text','number-to-bangla-text' ],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
