@@ -1,1 +1,2 @@
-from numtobang import to_bn_word
+
+from numberbanglaword.numtobang import to_bn_word

@@ -1,8 +1,0 @@
-README.md
-setup.py
-numberbanglaword/__init__.py
-numberbanglaword/numtobang.py
-numberbanglaword.egg-info/PKG-INFO
-numberbanglaword.egg-info/SOURCES.txt
-numberbanglaword.egg-info/dependency_links.txt
-numberbanglaword.egg-info/top_level.txt
